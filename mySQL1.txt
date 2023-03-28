@@ -49,4 +49,3 @@ select * from cars where price > (select avg(price) from cars);
 
 
 
-
